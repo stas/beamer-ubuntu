@@ -21,6 +21,13 @@ Now you should be able to use the theme:
 \usetheme{Ubuntu}
 ```
 
+### Requirements
+
+On Ubuntu/Debian, installing the packages below, should be enough:
+
+* latex-beamer
+* texlive-xetex
+
 ### Compiling files
 
 Please use `xelatex` to compile the `.tex` files so we can use Ubuntu system
