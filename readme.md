@@ -67,6 +67,6 @@ clean:
     @rm -f *~
 ```
 
-### Cedits
+### Credits
 
 * [Ian Yang](https://github.com/doitian) for his work on Intridea template.
